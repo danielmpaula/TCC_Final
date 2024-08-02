@@ -1,3 +1,3 @@
-# TCC_Final
+# TCC Final
 
-Just a place to insert the code for evaluation
+Intended to be just a place to insert the code for evaluation, will also be where I publicize my term paper once it's corrected.
